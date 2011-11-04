@@ -50,6 +50,7 @@ easily be defined.
 %doc %{_texmfdistdir}/doc/latex/spotcolor/readme.pdf
 %doc %{_texmfdistdir}/doc/latex/spotcolor/readme.tcp
 %doc %{_texmfdistdir}/doc/latex/spotcolor/readme.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -60,3 +61,5 @@ easily be defined.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
