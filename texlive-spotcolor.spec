@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-spotcolor
 Version:	1.2
-Release:	5
+Release:	6
 Summary:	Spot colours for pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spotcolor
