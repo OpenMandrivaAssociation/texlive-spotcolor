@@ -1,6 +1,6 @@
 Name:		texlive-spotcolor
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Spot colours for pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spotcolor
