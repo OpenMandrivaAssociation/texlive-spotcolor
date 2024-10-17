@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Spot colours for pdfLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spotcolor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/spotcolor
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spotcolor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spotcolor.doc.r%{version}.tar.xz
